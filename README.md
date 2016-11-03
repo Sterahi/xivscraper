@@ -1,0 +1,2 @@
+# xivscraper
+improvement of baseScraper
