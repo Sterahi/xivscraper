@@ -1,2 +1,2 @@
 # xivscraper
-improvement of baseScraper
+Current Time: ~1hr
